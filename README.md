@@ -1,8 +1,16 @@
-### Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kmj36%27s+Github&fontSize=100)
+### Hello, Visitor ✨
+### This is My Profile 😄
+
+# My Tech
+
+
+
 
 <!--
 **kmj36/kmj36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
