@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=kmj36%27s+Github&fontSize=100)
 ### Hello, Visitor ✨
 ### This is kmj36 Profile 😄
-### I am IT Security solution developer. 🔐🔧
-### If you want Contact me <a href="mailto:kmj36953695@gmail.com"><img src="https://img.shields.io/badge/kmj36953695@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### I am IT Security Solution Developer. 🔐🔧
+### If You Want Contact Me <a href="mailto:kmj36953695@gmail.com"><img src="https://img.shields.io/badge/kmj36953695@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <h1 align = "center"><b> 💻 My Tech 💻 </b></h1>
 <span><a href="https://en.cppreference.com/w/"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a></span>
