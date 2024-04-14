@@ -11,6 +11,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="42%" />
 </a>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmj36&theme=transparent)
+
 ---
 
 <h1 align = "center"><b> 💻 Tech Stack 💻 </b></h1>
