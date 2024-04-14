@@ -10,9 +10,9 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" width="42%" />
 </a>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmj36&theme=transparent)
-
+<a href="s">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmj36&theme=transparent" width="100%"/>
+</a>
 ---
 
 <h1 align = "center"><b> 💻 Tech Stack 💻 </b></h1>
